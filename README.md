@@ -1,1 +1,2 @@
-# zaj1
+git add README.md && git commit -m "Dodaj plik README"
+
